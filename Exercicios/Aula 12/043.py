@@ -8,7 +8,7 @@ JO KEN PÔ !!
 
       ESCOLHA: """))
 
-opcoes = ["PEDRA", "PAPEL", "TESOURA"]
+opcoes = ["PEDRA :", "PAPEL", "TESOURA"]
 
 escolhido_pelo_pc = opcoes[random.randint(0, 2)]
 escolhido_por_vc = opcoes[escolha]
